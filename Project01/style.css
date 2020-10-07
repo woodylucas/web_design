@@ -1,7 +1,23 @@
-h1 {
-    color: brown;
+header {
+    background-color: cornflowerblue;
+    height: 118px;
+    width: 1024px;
 }
 
-h2 {
-    color: chartreuse;
+nav {
+    background-color: red;
+    height: 40px;
+    width: 1024px;
+}
+
+main {
+    background-color: orange;
+    height: 400px;
+    width: 1024px;
+}
+
+footer {
+    background-color: green;
+    height: 100px;
+    width: 1024px;
 }
