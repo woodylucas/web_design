@@ -1,7 +1,9 @@
 body {
     background-color: #2F3035;
 }
-.container{
+
+
+.container {
     margin-left: auto;
     margin-right: auto;
     width: 1024px;
@@ -18,13 +20,11 @@ nav {
 }
 
 main {
-    background-color: orange;
     height: 400px;
+    background-color: orange;
 }
 
 footer {
-    background-color: green;
+    background-color: greenyellow;
     height: 100px;
-    
 }
-
