@@ -60,3 +60,7 @@ a {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+nav a {
+    text-decoration: none;
+}
