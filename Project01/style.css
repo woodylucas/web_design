@@ -26,8 +26,9 @@ header {
 
 nav {
     background-color: rgba(0, 0, 0, 0.336);
-    height: 40px;
     text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
 }
 
 main {
@@ -39,7 +40,7 @@ main {
 }
 
 footer {
-    background-color: greenyellow;
+    background-color: rgba(9, 15, 0, 0.466);
     height: 100px;
 }
 
@@ -63,4 +64,7 @@ a {
 
 nav a {
     text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
